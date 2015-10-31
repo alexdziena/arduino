@@ -1,2 +1,2 @@
 # arduino
-Scripts for some simple arduino projects I'm building
+Some simple arduino projects I'm building
